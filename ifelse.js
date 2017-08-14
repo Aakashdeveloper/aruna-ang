@@ -42,6 +42,14 @@ if(name.length < 10){
      console.log("donot allow access
 }
 
+var marks = "efrefer"
+if(isNaN(marks)==false){
+    console.log("value is  correct")
+}else{
+    console.log("enter correct value")
+}
+
+
 var phone= "9643018019"
 if(isNaN(phone)==false && phone.length == 10){
     console.log("number is ok")

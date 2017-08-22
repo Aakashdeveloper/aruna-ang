@@ -29,6 +29,7 @@ function animal(age,color){
 }
 
 var dog = new animal(11,"black")
+var cat = new animal(12,"white")
 
 
 var library = [ 
